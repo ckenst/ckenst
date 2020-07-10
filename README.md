@@ -6,9 +6,9 @@ I'm Chris
 
 You can find most things about me 👆 
 
-I'm best 📫  at [Twitter](https://twitter.com/ckenst)
+I'm best reached on [Twitter](https://twitter.com/ckenst)
 
-Thanks for stopping by! 👋
+Thanks for stopping by! 😄
 
 <!--
 **ckenst/ckenst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
