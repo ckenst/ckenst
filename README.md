@@ -1,4 +1,14 @@
-### Hi there 👋
+![img](https://pbs.twimg.com/profile_banners/214186679/1594165150/1500x500)
+
+### Hi there 👋 
+
+I'm Chris
+
+You can find most things about me 👆 
+
+I'm best 📫  at [Twitter](https://twitter.com/ckenst)
+
+Thanks for stopping by! 👋
 
 <!--
 **ckenst/ckenst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
