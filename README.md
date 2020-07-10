@@ -4,9 +4,9 @@
 
 I'm Chris
 
-You can find most things about me 👆 
+That's a little bit about me 👆
 
-I'm best reached on [Twitter](https://twitter.com/ckenst)
+I'm best reached on [Twitter](https://twitter.com/ckenst) but you can 💬 [ask me anything](https://github.com/ckenst/ama/issues/new).
 
 Thanks for stopping by! 😄
 
