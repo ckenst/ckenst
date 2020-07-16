@@ -10,7 +10,7 @@ let chriskenst = {
     "Vice President and Treasurer of Association for Software Testing",
     "Tech Writer / Blogger",
     "Occasional Speaker",
-    "Built and Maintains an OSS list of testing confernces and workshops",
+    "Built and Maintains an OSS list of testing conferences and workshops",
   ],
   Coding: {
     Ruby: true,
@@ -27,7 +27,7 @@ let chriskenst = {
 };
 ```
 
-I'm best reached on [Twitter](https://twitter.com/ckenst) but you can 💬 [ask me anything](https://github.com/ckenst/ama/issues/new).
+I'm best reached on [Twitter](https://twitter.com/ckenst) but feel free to 💬 [ask me anything](https://github.com/ckenst/ama/issues/new).
 
 Thanks for stopping by! 😄
 
