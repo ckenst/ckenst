@@ -5,9 +5,9 @@ A little more about me 👇:
 
 ```javascript
 let chriskenst = {
-  workRole: "Lead Automation Engineer",
+  workRole: "Lead Automation Engineer at Promenade Group",
   otherRoles: [
-    "Vice President and Treasurer of Association for Software Testing",
+    "President of the Association for Software Testing",
     "Tech Writer / Blogger",
     "Occasional Speaker",
     "Built and Maintains an OSS list of testing conferences and workshops",
@@ -23,6 +23,7 @@ let chriskenst = {
   Websites: {
     Blog: "https://www.kenst.com",
     Conferences: "https://testingconferences.org",
+    AST: "https://www.associationforsoftwaretesting.org/"
   },
 };
 ```
