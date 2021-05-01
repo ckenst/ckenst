@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris 👋 
 
-- 🤖 Working as an Test Automation Engineer
+- 🤖 Working as an Test Automation Engineer & Manager
 - 🔭 Maintainer of [Testing Conferences](http://github.com/testingconferences/testingconferences.github.io/)
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
 - 💬 [Ask me anything](https://github.com/ckenst/ama/issues/new)
@@ -9,7 +9,7 @@ A little more about me 👇:
 
 ```javascript
 let chriskenst = {
-  workRole: "Lead Automation Engineer at Promenade Group",
+  workRole: "QA Engineering Manager at Promenade Group",
   otherRoles: [
     "President of the Association for Software Testing",
     "Tech Writer / Blogger",
