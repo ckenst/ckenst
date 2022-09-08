@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris 👋 
 
-- 🤖 Working as an Test Automation Engineer & Manager
+- 🤖 Working as an Tester, Engineer & Manager
 - 🔭 Maintainer of [Testing Conferences](http://github.com/testingconferences/testingconferences.github.io/)
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
 - 💬 [Ask me anything](https://github.com/ckenst/ama/issues/new)
