@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris 👋 
 
-- 🤖 Working as an Tester, Engineer & Manager
+- 🤖 Working as an Test Engineer
 - 🔭 Maintainer of [Testing Conferences](http://github.com/testingconferences/testingconferences.github.io/)
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
 - 💬 [Ask me anything](https://github.com/ckenst/ama/issues/new)
@@ -9,10 +9,10 @@ A little more about me 👇:
 
 ```javascript
 let chriskenst = {
-  workRole: "QA Engineering Manager at Promenade Group",
+  workRole: "Lead SDET at Promenade Group",
   otherRoles: [
     "President of the Association for Software Testing",
-    "Tech Writer / Blogger",
+    "Blogger",
     "Occasional Speaker",
     "Built and Maintains an OSS list of testing conferences and workshops",
   ],
