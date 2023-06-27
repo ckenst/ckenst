@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris 👋 
 
-- 🤖 Working as an Lead Software Engineer in Test (aka SDET)
+- 🤖 TBD
 - 🔭 Maintainer of [Testing Conferences](http://github.com/testingconferences/testingconferences.github.io/)
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
 
@@ -8,7 +8,7 @@ A little more about me 👇:
 
 ```javascript
 let chriskenst = {
-  workRole: "Lead SDET at Promenade Group",
+  workRole: "TBD",
   otherRoles: [
     "President of the Association for Software Testing",
     "Writer",
