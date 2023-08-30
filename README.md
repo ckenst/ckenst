@@ -1,14 +1,15 @@
 ### Hi there, I'm Chris 👋 
 
-- 🤖 TBD
+- 🤖 Engineering Director
 - 🔭 Maintainer of [Testing Conferences](http://github.com/testingconferences/testingconferences.github.io/)
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
+- ✍️ Writing at [Kenst.com](https://www.kenst.com)
 
 A little more about me 👇: 
 
 ```javascript
 let chriskenst = {
-  workRole: "TBD",
+  workRole: "Engineering Director",
   otherRoles: [
     "President of the Association for Software Testing",
     "Writer",
