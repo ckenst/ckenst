@@ -11,7 +11,6 @@ A little more about me 👇:
 let chriskenst = {
   workRole: "Engineering Director",
   otherRoles: [
-    "President of the Association for Software Testing",
     "Writer",
     "Occasional Speaker",
     "Built and Maintains an OSS list of testing conferences and workshops",
@@ -20,8 +19,7 @@ let chriskenst = {
   Tools: ["VS Code", "Git", "Docker", "Cypress", "WebDriverIO"],
   Websites: {
     Blog: "https://www.kenst.com",
-    Conferences: "https://testingconferences.org",
-    AST: "https://www.associationforsoftwaretesting.org/"
+    Conferences: "https://testingconferences.org"
   },
 };
 ```
