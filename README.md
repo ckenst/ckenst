@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris 👋 
 
-- 🤖 Engineering Director
+- 🤖 I'm open to work - long time tester, and more recent engineering manager / director. 
 - 🔭 Maintainer of [Testing Conferences](http://github.com/testingconferences/testingconferences.github.io/)
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
 - ✍️ Writing at [Kenst.com](https://www.kenst.com)
@@ -9,14 +9,14 @@ A little more about me 👇:
 
 ```javascript
 let chriskenst = {
-  workRole: "Engineering Director",
+  workRole: "I need one",
   otherRoles: [
     "Writer",
     "Occasional Speaker",
     "Built and Maintains an OSS list of testing conferences and workshops",
   ],
   Interests: ["Systems Thinking", "Test Design", "Teaching", "Bias in AI"],
-  Tools: ["VS Code", "Git", "Docker", "Cypress", "WebDriverIO"],
+  Tools: ["VS Code", "Mailinator", "CoPilot"],
   Websites: {
     Blog: "https://www.kenst.com",
     Conferences: "https://testingconferences.org"
