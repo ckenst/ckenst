@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris 👋 
 
-- 🤖 I'm open to work - long time tester, and more recent engineering manager / director. 
+- 🤖 I'm open to work - engineering director, manager and long time tester. Interested in the intersection between quality, testing and AI
 - 🔭 Maintainer of [Testing Conferences](http://github.com/testingconferences/testingconferences.github.io/)
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
 - ✍️ Writing at [Kenst.com](https://www.kenst.com)
