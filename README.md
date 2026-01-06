@@ -5,7 +5,7 @@
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
 - ✍️ Writing at [Kenst.com](https://www.kenst.com)
 
-A little more about me 👇: 
+<!-- A little more about me 👇: 
 
 ```javascript
 let chriskenst = {
@@ -27,7 +27,7 @@ let chriskenst = {
 <a href="https://github.com/ckenst">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ckenst&count_private=true&show_icons=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckenst&hide=postscript&layout=compact">
-</a>
+</a> -->
 <!--
 **ckenst/ckenst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
