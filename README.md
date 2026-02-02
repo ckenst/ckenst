@@ -1,9 +1,12 @@
-### Hi there, I'm Chris 👋 
+## Hi there, I'm Chris 👋 
 
 - 🤖 I'm open to work - engineering director, manager and long time tester. Interested in the intersection between quality, testing and AI
-- 🔭 Maintainer of [Testing Conferences](http://github.com/testingconferences/testingconferences.github.io/)
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
-- ✍️ Writing at [Kenst.com](https://www.kenst.com)
+
+## Current Projects
+
+- 🔭 [Testing Conferences](http://github.com/testingconferences/testingconferences.github.io/) - A simple list of software testing conferences built collaboratively with the community
+- ✍️ [Kenst.com](https://www.kenst.com) - Ghost blog, where I write weekly
 
 <!-- A little more about me 👇: 
 
