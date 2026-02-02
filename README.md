@@ -5,8 +5,8 @@
 
 ## Current Projects
 
-- 🔭 [Testing Conferences](http://github.com/testingconferences/testingconferences.github.io/) - A simple list of software testing conferences built collaboratively with the community
-- ✍️ [Kenst.com](https://www.kenst.com) - Ghost blog, where I write weekly
+- 🔭 **[TestingConferences.org](http://github.com/testingconferences/testingconferences.github.io/)** - A simple list of software testing conferences built collaboratively with the community
+- ✍️ **[Shattered Illusions](https://www.kenst.com)** - My blog, where I write regularly. Uses Ghost but with a custom-ish template. 
 
 <!-- A little more about me 👇: 
 
