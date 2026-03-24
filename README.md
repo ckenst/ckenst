@@ -1,6 +1,6 @@
 ## Hi there, I'm Chris 👋 
 
-- 🤖 I'm open to work - engineering director, manager and long time tester. Interested in the intersection between quality, testing and AI
+- 🤖 Interested in the intersection between quality, testing and AI
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
 
 ## Current Projects
