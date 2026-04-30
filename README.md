@@ -9,7 +9,8 @@
 - ✍️ **[Shattered Illusions](https://www.kenst.com)** - My blog, where I write regularly. Uses Ghost but with a custom-ish template.
 - 📬 **[YouGotMailinator](https://github.com/ckenst/YouGotMailinator/tree/main)** - A lightweight demo app that showcases how to test email-based workflows using Mailinator.
 - ⏲️ **TimeTap** - A local time tracking and invoice generation application to help with my consulting.
-- **[Mailinator SDK Tests](https://github.com/ckenst/mailinator-sdk-tests)** - Building tests for all of Mailinator's SDKs. JavaScript, Python, Ruby, C#, Go, and Java. Vibe coded. 
+- **[Mailinator SDK Tests](https://github.com/ckenst/mailinator-sdk-tests)** - Building tests for all of Mailinator's SDKs. JavaScript, Python, Ruby, C#, Go, and Java. Vibe coded.
+- 🛎️ **[ChiefOS](https://github.com/ckenst/chiefos)** - Building a chief of staff. Chat interface but connected to all the things I need to help me manage my daily, weekly and monthly tasks. 
 
 ## Connect
 
