@@ -1,7 +1,9 @@
 ## Hi there, I'm Chris 👋 
 
-- 🤖 Interested in the intersection between quality, testing and AI
+- I'm a ✍️ writer and 🕹️ operator
+- 🤖 Exploring the intersection between quality, testing and AI, e.g. what does higher output in code mean for quality?
 - 📫 Find me on: [Twitter](https://twitter.com/ckenst) or [LinkedIn](https://www.linkedin.com/in/ckenst)
+- 📰 Read what I write on [Shattered Illusions](https://www.kenst.com)
 
 ## Current Projects
 
