@@ -9,7 +9,7 @@
 
 - 🔭 **[TestingConferences.org](http://github.com/testingconferences/testingconferences.github.io/)** - A simple list of software testing conferences built collaboratively with the community. Over 10 years old!
 - ✍️ **[Shattered Illusions](https://www.kenst.com)** - My blog, where I write regularly. Uses Ghost but with a custom-ish template.
-- 🛎️ **[ChiefOS](https://github.com/ckenst/chiefos)** - My Chief of staff. Workflow automation but connected to all the things I need to manage my daily, weekly and monthly tasks. 
+- <img src="https://raw.githubusercontent.com/ckenst/chiefOS/main/public/briefings/favicon.svg" alt="ChiefOS" width="18" height="18" style="vertical-align: text-bottom; margin-right: 4px;"> **[ChiefOS](https://github.com/ckenst/chiefos)** - My Chief of staff. Workflow automation but connected to all the things I need to manage my daily, weekly and monthly tasks. 
 - 🎧 **[Windows AirPod Battery](https://github.com/ckenst/windows-airpod-battery/)** - I don't like being surprised when my headphones die on me. Windows makes it too hard to know the remaining charge. This tray app makes it easier.
 - 📬 **[YouGotMailinator](https://github.com/ckenst/YouGotMailinator/tree/main)** - A lightweight demo app that showcases how to test email-based workflows using Mailinator.
 - ⏲️ **TimeTap** - A local time tracking and invoice generation application to help with my consulting.
